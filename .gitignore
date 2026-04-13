@@ -1,0 +1,14 @@
+# Compiled output
+out/
+*.class
+
+# Old JDBC driver (keep only 3.5.7)
+mariadb-java-client-3.3.2.jar
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.vscode/
